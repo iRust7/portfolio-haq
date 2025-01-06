@@ -304,7 +304,7 @@ export default function Index() {
             <div className="loading" />
           </div>
           <div className="description-box">
-            <h4>Sherlock Holmes Strore</h4>
+            <h4>Sherlock Holmes Store</h4>
             <p>Online Store About Fan merch.</p>
             <div className="categories">Web Development</div>
           </div>
