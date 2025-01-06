@@ -117,7 +117,7 @@ export default function Contact() {
                   <div className="error-label"></div>
                 </div>
                 <div className="form-field">
-                  <ReCAPTCHA className="g-recaptcha" sitekey="6Ld52K8qAAAAAJx9oer5neo9l7nQAFZS_OyKyiL6" />
+                  <ReCAPTCHA className="g-recaptcha" sitekey="6Ld52q8qAAAAAMRHMuPP-xrP0PSeCLUIquf7gKSw" />
                   <div className="error-label"></div>
                 </div>
                 <div className="form-field">
