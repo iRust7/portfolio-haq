@@ -157,8 +157,9 @@ export default function Index() {
                 <span>23670138</span>
               </li>
               <li>
-                <strong>Portfolio:</strong>
+                <strong>Portfolio & Databases:</strong>
                 <span><a href='https://fusefox-haqdb.vercel.app/'>fusefox-haqdb</a></span>
+                  <span><a href='https://portfolio-nurhaq.vercel.app/'>portfolio-nurhaq</a></span>
               </li>
               <li>
                 <strong>Email:</strong>
