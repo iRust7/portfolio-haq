@@ -170,20 +170,20 @@ export default function Index() {
             <h3>Skills</h3>
             <ul className="skill-bars">
               <li>
-                <div className="progress percent95"><span>95%</span></div>
+                <div className="progress percent85"><span>85%</span></div>
                 <strong>HTML / CSS</strong>
               </li>
               <li>
-                <div className="progress percent90"><span>90%</span></div>
+                <div className="progress percent70"><span>70%</span></div>
                 <strong>JavaScript</strong>
               </li>
               <li>
-                <div className="progress percent90"><span>90%</span></div>
+                <div className="progress percent75"><span>75%</span></div>
                 <strong>C#</strong>
               </li>
               <li>
                 <div className="progress percent50"><span>50%</span></div>
-                <strong>PHP</strong>
+                <strong>PYTHON</strong>
               </li>
               <li>
                 <div className="progress percent40"><span>40%</span></div>
