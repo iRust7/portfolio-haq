@@ -156,7 +156,7 @@ export default function Index() {
                 <strong>NPM:</strong>
                 <span>23670138</span>
               </li>
-              <li>
+              <li className="portfolio-links">
                 <strong>Portfolio & Databases:</strong>
                 <span><a href='https://fusefox-haqdb.vercel.app/'>fusefox-haqdb</a></span>
                   <span><a href='https://portfolio-nurhaq.vercel.app/'>portfolio-nurhaq</a></span>
