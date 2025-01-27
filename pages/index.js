@@ -175,11 +175,11 @@ export default function Index() {
                 <strong>HTML / CSS</strong>
               </li>
               <li>
-                <div className="progress percent70"><span>70%</span></div>
+                <div className="progress percent70"><span>75%</span></div>
                 <strong>JavaScript</strong>
               </li>
               <li>
-                <div className="progress percent75"><span>75%</span></div>
+                <div className="progress percent75"><span>70%</span></div>
                 <strong>C#</strong>
               </li>
               <li>
