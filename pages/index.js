@@ -87,7 +87,7 @@ export default function Index() {
             <h2 className="fade-out"><Typewriter onInit={(typewriter) => {
               typewriter.pauseFor(350)
               .changeDelay(100)
-              .typeString('Anything is possible<br>if you have got enough nerve.')
+              .typeString('Anything is possible<br>if you have got enough nerve.<br>لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا')
               .callFunction(() => {
                 $('.intro-content h2').classList.add("active");
               }).start();
