@@ -161,7 +161,7 @@ export default function Navigation() {
   return (
     <header id="header" className="fixed-top">
       <div className="hoc clear">
-        <h1 className="logo"><a href="/">FuseFox</a></h1>
+        <h1 className="logo"><a href="/">Haqeust</a></h1>
         <nav id="mainnav">
           <div className="ham">
             <span className="bar1"></span>
