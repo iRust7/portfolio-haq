@@ -150,7 +150,7 @@ export default function Index() {
             <ul className="info-list">
               <li>
                 <strong>NickName:</strong>
-                <span>Moh Nurul haq, NurHaq, FuseFox, RustFox</span>
+                <span>Moh Nurul haq, NurHaq, Haqeust, RustFox</span>
               </li>
               <li>
                 <strong>NPM:</strong>
